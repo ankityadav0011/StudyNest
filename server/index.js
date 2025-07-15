@@ -17,7 +17,7 @@ const dotenv = require("dotenv");
 const Profile = require("./models/Profile");
 
 dotenv.config(); 
-const PORT = process.env.PORT |4040;
+const PORT = process.env.PORT || 12272;
 
 // database connect 
 database.connect();
