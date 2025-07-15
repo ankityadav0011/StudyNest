@@ -1,4 +1,4 @@
-const BASE_URL = "https://studynest1.onrender.com"
+const BASE_URL = "https://studynest1.onrender.com/api/v1"
 
 // AUTH ENDPOINTS
 export const endpoints = {
